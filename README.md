@@ -36,8 +36,8 @@ Then i did it again to achieve higher speed, to do so you have to start it with 
 
 ## Results
 
-Here is the video with safe parameters : [Video low speed](https://youtu.be/jPWIDyRLVmY) 
-Here is the video with maximum speed that i could get : [Video high speed](https://youtu.be/AmmU8ckJJ1I)
+* Here is the video with safe parameters : [Video low speed](https://youtu.be/jPWIDyRLVmY) 
+* Here is the video with maximum speed that i could get : [Video high speed](https://youtu.be/AmmU8ckJJ1I)
 
 ## Dependencies
 
