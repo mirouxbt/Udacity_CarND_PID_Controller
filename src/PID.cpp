@@ -95,7 +95,8 @@ bool PID::Optimize(double cte, double speed) {
     }
 
     // If off track, stop here
-    if (abs(cte) > 3.7) {
+    // Was using `abs` function, but failed to compile on udacity reviewer environment
+    if (cte < -3.7 || cte > 3.7) { 
       nCTE = nCTE_steps;
       avgSpeed = 0.0;
     }
